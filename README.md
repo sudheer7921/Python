@@ -11,6 +11,8 @@ http://www.yes24.com/24/Goods/34970929?Acode=101
 
 http://colah.github.io/posts/2015-08-Backprop/
 
+http://neuralnetworksanddeeplearning.com/
+
 # Numpy
 1. Class and Lecture slide
 http://onoffmix.com/event/101879
